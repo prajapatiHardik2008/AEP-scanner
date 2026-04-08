@@ -36,7 +36,7 @@ README.md
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/arp-scanner.git
+git clone https://github.com/prajapatihardik2008/arp-scanner.git
 cd arp-scanner
 ```
 
